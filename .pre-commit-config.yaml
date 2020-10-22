@@ -5,3 +5,7 @@ repos:
         name : Check 1
         entry : python3 precommit_checks/check1.py
         language : python
+      - id : run_check_2
+        name : Check 2
+        entry : python3 precommit_checks/check1.py
+        language: python
